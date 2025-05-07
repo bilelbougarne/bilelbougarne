@@ -39,7 +39,7 @@
 ###
 
 <p align="center">
-### 👨‍💻 About Me<br><br>- 🔎 10+ years of experience in **offensive security**, **red teaming**, and **digital forensics**<br>- 💼 Founder of **Allsafe Cybersecurity**, providing **hardware-based pentesting solutions**<br>- 🧠 Self-taught expert, ranked 1st in many **Capture The Flag (CTF)** competitions<br>- 📡 Specialized in **Physical Pentesting**, **IoT Pentesting**, and **Ethical Hacking**<br>- 🧑‍🏫 Delivered workshops and trainings in the UAE,Algeria and beyond<br>- 💬 I believe in **sharing knowledge**, **living minimally**, and **staying self-reliant**</p>
+### 👨‍💻 About Me<br><br>- 🔎 9+ years of experience in **offensive security**, **red teaming**, and **digital forensics**<br>- 💼 Founder of **Allsafe Cybersecurity**, providing **hardware-based pentesting solutions**<br>- 🧠 Self-taught expert, ranked 1st in many **Capture The Flag (CTF)** competitions<br>- 📡 Specialized in **Physical Pentesting**, **IoT Pentesting**, and **Ethical Hacking**<br>- 🧑‍🏫 Delivered workshops and trainings in the UAE,Algeria and beyond<br>- 💬 I believe in **sharing knowledge**, **living minimally**, and **staying self-reliant**</p>
 
 ###
 
